@@ -4,7 +4,11 @@ Robust Control Toolbox is required for execution. LMI is solved in MATLAB.
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Hiroshi-Okajima/MATLAB_state_estimation)
 
-These matlab codes are for making figures of published paper ["State estimation method using median of multiple candidates for observation signals including outliers"](https://www.tandfonline.com/doi/full/10.1080/18824889.2021.1985702).
+These matlab codes are for making figures of published paper:
+
+H. Okajima, Y. Kaneda and N. Matsunaga, ["State estimation method using median of multiple candidates for observation signals including outliers"](https://www.tandfonline.com/doi/full/10.1080/18824889.2021.1985702), SICE Journal of Control, Measurement, and System Integration, Vol. 14, Issue 1, pp. 257-267 (2021)
+
+## Matlab codes
 
 - juurai.m: Previous method.
 
